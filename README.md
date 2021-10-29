@@ -16,7 +16,7 @@
 - **I have completed a diploma in professional web development and was first in batch.**
 - **Now I am a Microverse student.**
 
-### This week I spent my time on
+### This is my status on Github
 
 ![Shahier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahierNashaat&show_icons=true&theme=radical)
 
