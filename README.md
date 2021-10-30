@@ -1,7 +1,7 @@
 ## Hi, I'm Shahier Nashaat! :wave:
 
 
-![Hard coding](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
+![Hard coding](./giphy-2-1.gif)
 
 *Remote Full-stack web developer*
 
@@ -10,7 +10,7 @@
 <a href="mailto:shahiernashaat97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-<img src="https://raw.githubusercontent.com/gist/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%20Me.gif" width="150px" >
+<img src="./About Me.gif" width="150px" >
 
 - **I have a degree in computer science with GPA 3.07.**
 - **I have completed a diploma in professional web development and was first in batch.**
