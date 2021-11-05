@@ -14,7 +14,7 @@
 
 - **I have a degree in computer science with GPA 3.07.**
 - **I have completed a diploma in professional web development and was first in batch.**
-- **Now I am a Microverse student.**
+- **Now I am a student at Microverse.**
 
 ### This is my status on Github
 
