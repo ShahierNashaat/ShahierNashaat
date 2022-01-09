@@ -5,8 +5,9 @@
 
 *Remote Full-stack web developer*
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahier-nashaat-73519313a/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShahierN)
+[![Linkedin Badge](https://img.shields.io/badge/-Shahier%20Nashaat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahier-nashaat/)](https://www.linkedin.com/in/shahier-nashaat/)
+[![Twitter Badge](https://img.shields.io/badge/-@ShahierN_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShahierN)](https://twitter.com/ShahierN)
+[![HackerRank Badge](https://img.shields.io/badge/-@shahiernash_-1ba94c?style=flat-square&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/shahiernash)](https://www.hackerrank.com/shahiernash)
 
 
 <img src="./About Me.gif" width="150px" >
