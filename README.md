@@ -1,7 +1,7 @@
 ## Hi, I'm Shahier Nashaat! :wave:
 
 
-![Hard coding](./giphy-2-1.gif)
+![Hard coding](./image_processing.gif)
 
 *Remote Full-stack web developer*
 
