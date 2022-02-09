@@ -1,7 +1,8 @@
 ## Hi, I'm Shahier Nashaat! :wave:
 
 
-![Hard coding](./image_processing.gif)
+<!-- ## ![Hard coding](./image_processing.gif) -->
+<img align="right" alt="Person coding gif" src="./image_processing.gif" height="350" width="450" /> 
 
 *Remote Full-stack web developer*
 
