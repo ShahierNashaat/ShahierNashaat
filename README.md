@@ -11,7 +11,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-@shahiernash_-1ba94c?style=flat-square&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/shahiernash)](https://www.hackerrank.com/shahiernash)
 
 
-<img src="./About Me.gif" width="150px" >
+<img src="./About Me.gif" width="30%" >
 
 - **I have a degree in computer science with GPA 3.07.**
 - **I have completed a diploma in professional web development and was first in batch.**
@@ -19,7 +19,7 @@
 
 ### This is my status on Github
 
-![Shahier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahierNashaat&show_icons=true&theme=radical)  [![Shahier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahierNashaat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Shahier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahierNashaat&show_icons=true&theme=radical) [![Shahier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahierNashaat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **You can check my portfolio [here](https://shahiernashaat.github.io/Portfolio/)**
