@@ -19,7 +19,8 @@
 
 ### This is my status on Github
 
-![Shahier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahierNashaat&show_icons=true&theme=radical) [![Shahier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahierNashaat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Shahier's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShahierNashaat&show_icons=true&theme=radical) 
+![Shahier's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShahierNashaat&layout=compact)
 
 
 **You can check my portfolio [here](https://shahiernashaat.github.io/Portfolio/)**
