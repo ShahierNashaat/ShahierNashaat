@@ -4,7 +4,7 @@
 <!-- ## ![Hard coding](./image_processing.gif) -->
 <img align="right" alt="Person coding gif" src="./image_processing.gif" height="350" width="450" /> 
 
-*Remote Full-stack web developer*
+*Remote BACK-END developer*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shahier%20Nashaat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahier-nashaat/)](https://www.linkedin.com/in/shahier-nashaat/)
 [![Twitter Badge](https://img.shields.io/badge/-@ShahierN_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShahierN)](https://twitter.com/ShahierN)
